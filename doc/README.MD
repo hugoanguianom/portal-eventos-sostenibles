@@ -1,8 +1,8 @@
-## INSTALACIÓN DE SISTEMA OPERATIVO
+# INSTALACIÓN DE SISTEMA OPERATIVO
 
 Documento con los pasos a seguir para la instalación del Sistema Operativo Windows 10 PRO en una Virtual Box
 
-# INSTRUCCIONES GENERALES
+## INSTRUCCIONES GENERALES
 
 - Descargar VirtualBox y su Extension Pack (https://www.virtualbox.org/wiki/Downloads) ⬇️
 - Descargar la ISO del sistema operativo deseado (https://www.microsoft.com/es-es/software-download) ⬇️
