@@ -15,7 +15,7 @@ Realizar un pequeño portal web que permita a los usuarios gestionar los eventos
 - [ ] Lenguaje de marcas (HTML/CSS)
 - [X] Base de Datos (Modelo ER / SQL)
 - [ ] Programación
-- [ ] Sistemas informáticos (VM + local server)
+- [X] Sistemas informáticos (VM + local server)
 - [X] Entornos de desarrollo
 
 ## Recursos técnicos ⚙️
