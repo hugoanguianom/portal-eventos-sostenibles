@@ -1,6 +1,8 @@
 # INSTALACIÓN DE SISTEMA OPERATIVO
 
 Documento con los pasos a seguir para la instalación del Sistema Operativo Windows 10 PRO en una Virtual Box
+[Guía de instalación](./instalacion_VM_W10.pdf)
+
 
 ## INSTRUCCIONES GENERALES
 
