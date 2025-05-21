@@ -8,13 +8,12 @@ Portal de eventos sostenibles
 
 Realizar un pequeño portal web que permita a los usuarios gestionar los eventos con la sostenibilidad, tales como conferencias, talleres o actividades ecoógicas.
 
-
 ## Tareas pendientes 📥
 
 - [X] Inicializar repositorio
 - [X] Crear README.md
 - [ ] Lenguaje de marcas (HTML/CSS)
-- [ ] Base de Datos (Modelo ER / SQL)
+- [X] Base de Datos (Modelo ER / SQL)
 - [ ] Programación
 - [ ] Sistemas informáticos (VM + local server)
 - [X] Entornos de desarrollo
@@ -27,7 +26,6 @@ Realizar un pequeño portal web que permita a los usuarios gestionar los eventos
 - GitHub
 - Maquina virtual con Windows 10
 - Local server (XAMPP)
-
 
 ## Autor 💻
 
